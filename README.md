@@ -9,15 +9,3 @@ Este gráfico muestra los lenguajes que más utilizo en mis proyectos.
 
 ---
 
-### Tecnologías y Herramientas
-### Estas son las tecnologías y herramientas que más utilizo en mis proyectos:
-
-### [![Mis habilidades](https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,linux,postgres,maven&theme=light)](https://skillicons.dev)
-
-### - **Lenguajes de Programación**: Java
-### - **Frameworks y Librerías**: Spring, Hibernate
-### - **Entornos de Desarrollo**: IntelliJ IDEA, Eclipse
-### - **Bases de Datos**: PostgreSQL
-### - **Herramientas de Desarrollo**: Maven, Linux
-
-### ---
