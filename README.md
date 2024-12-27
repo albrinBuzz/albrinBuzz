@@ -8,7 +8,7 @@ Este es un gráfico de los lenguajes de programación que más utilizo en mis pr
 
 
 ### Tecnologías y Herramientas
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipselinux,postgres,maven&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,linux,postgres,maven&theme=light)](https://skillicons.dev)
 - **Lenguajes**: JavaScript, Python, Java, C#
 - **Frameworks**: React, Node.js, Django
 - **Herramientas**: Git, Docker, AWS
