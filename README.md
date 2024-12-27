@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=x4leqxinn">
 ## Hi there 👋
 Bienvenido a mi perfil de GitHub. Aquí puedes ver un resumen rápido de mis estadísticas y las tecnologías que más utilizo.
 
