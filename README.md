@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrinBuzz&layout=compact)
+# Mis Estadísticas de GitHub
+
+Este es un resumen de mis estadísticas de GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrinBuzz&show_icons=true&hide=prs&count_private=true&theme=dark)
 
 <!--
 **albrinBuzz/albrinBuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
