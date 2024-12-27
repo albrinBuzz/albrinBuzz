@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?albrinBuzz=anuraghazra)](https://github.com/albrinBuzz/github-readme-stats)
 <!--
 **albrinBuzz/albrinBuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
