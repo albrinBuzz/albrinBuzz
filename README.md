@@ -1,14 +1,11 @@
 ## Hi there 👋
-Bienvenido a mi perfil de GitHub, el lugar donde la magia (y a veces los **segfaults**) suceden.
+Bienvenido a mi perfil de GitHub, donde el código fluye, y a veces también los **segfaults**. Aquí encontrarás un resumen rápido de mis estadísticas y las tecnologías que más utilizo.
 
 ### Lenguajes más utilizados
-Este gráfico muestra los lenguajes que más utilizo en mis proyectos. Si alguna vez ves un **segfault** en mis repositorios, es probable que haya sido causado por mi entusiasmo en usar punteros o intentar hacer demasiado en una sola línea de código. 😅
+Como todo programador de verdad sabe: **no eres un verdadero desarrollador hasta que te enfrentas a un segfault**. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrinBuzz&layout=compact&theme=dark)
 
 ---
-
-### ⚡ Fun fact
-He pasado más tiempo depurando un **segfault** que realmente escribiendo código... pero al menos, ¡aprendo algo nuevo cada vez! 💻💥
 
 
