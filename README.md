@@ -1,8 +1,8 @@
 ## Hi there 👋
-Welcome to my GitHub profile, where the code flows smoothly... until it doesn't. Sometimes, **segfaults** are just a reminder that even the most carefully crafted code can stumble when you try to reach the forbidden. 
+
 
 ### Most used languages
-As every true developer knows: **you're not a real developer until you've faced a segfault**. It’s the moment you realize that, just like a hacker trying to break into a secure system, you have to understand the rules of memory or risk getting caught.
+As every true developer knows: **you're not a real developer until you've faced a segfault**. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrinBuzz&layout=compact&theme=dark)
 
