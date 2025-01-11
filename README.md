@@ -1,8 +1,11 @@
-## Hi there 👋
+## Este texto lo generó ChatGPT, porque no se me ocurre un pija
 
+## ¡Hola, peluca! 👋
 
-### Most used languages
-As every true developer knows: **you're not a real developer until you've faced a segfault**. 
+### Lenguajes más utilizados
+Como bien dice Linus Torvalds: **"No eres un verdadero desarrollador hasta que te enfrentas a un segfault"**.
+
+Y como diría el Bananero: **"¡Pero qué hacés, peluca! ¿No sabés ni escribir un 'Hola Mundo' en Python y ya te metés a hacer 'multithreading' en Java? ¡Sos un Trolazo, sape!"**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrinBuzz&layout=compact&theme=dark)
 
